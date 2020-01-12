@@ -1,6 +1,6 @@
---CUSTOMER RELATION SYSTEM--
+-- CUSTOMER RELATION SYSTEM --
 
---TABLE CREATION--
+-- TABLE CREATION --
 
 CREATE TABLE customer
 (
@@ -11,7 +11,7 @@ CREATE TABLE customer
     PRIMARY KEY(cust_no,cust_phone)
 );
 
---TABLE CREATED--
+-- TABLE CREATED --
 
 -- +------------+-------------+------+-----+---------+-------+  --
 -- | Field      | Type        | Null | Key | Default | Extra |  --
